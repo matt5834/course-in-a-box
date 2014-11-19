@@ -3,11 +3,9 @@ layout: index
 published: true
 ---
 
-## Create a Learning Community that Lasts
+## A Progressive Approach to Helping Every Student Compose Music
 
-Online courses often feel large, intimidating and anonymous. It's hard to feel invested
-in multiple choice quizzes, textbook chapters and hum-drum Q &amp; A forums where you
-don't know anyone.
+The world of music education is 
 
 In a stellar learning experience, you'd know who was in the room and feel super-comfy.
 You'd make projects together and find help when you get stuck. You'd want to send people
