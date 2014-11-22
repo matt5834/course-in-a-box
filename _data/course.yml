@@ -1,6 +1,6 @@
 title: Music Works
 description: Build Your Very Own Open Course
-modules: [start, community, learning, content, feedback, references]
+modules: [start, community, progressive, learning, content, feedback, references]
 signups:
  - name: Dirk Uys
    image: http://thebacklog.net/img/profile.jpeg
