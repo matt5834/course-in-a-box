@@ -5,16 +5,12 @@ published: true
 
 ## A Progressive Approach to Helping Every Student Compose Music
 
-The world of music education is 
+It is a wonderful time to be a music educator!
 
-In a stellar learning experience, you'd know who was in the room and feel super-comfy.
-You'd make projects together and find help when you get stuck. You'd want to send people
-thank-you cards and chicken soup.
+Technology can transform any music classroom into a place where every student regardless of background or experience can make creative choices about how they'd like to make their own music sound. In so doing they gain skills and learn concepts that aid in their understanding of how music works. A learner who is given this opportunity becomes indepenent and can begin to use music as a unique form of expresssion.  
 
-We know designing a creative, participatory community can be tricky. We're here to help
-you craft assignments that rule, build an audience and support you along the way. You'll
-even learn a few technical skills in the process. Don't worry, 1s and 0s wash off
-pretty easily.
+## Just like art class.
+In the typical visual art class every student begins some kind or creative project (a drawing, painting, sculpture etc.) probably from the very first class. 
 		
 ## OK, but who are you guys?
 
