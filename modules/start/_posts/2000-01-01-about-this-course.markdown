@@ -4,7 +4,7 @@ title: How will this course work?
 
 ## How will this course work?
 
-![Image of course workflow]({{site.baseurl}}/img/process.png)
+![Image of course workflow]({{site.baseurl}}/img/cole.jpg)
 
 This course is designed to help teachers explore the process of bringing music composition to your classroom for **all** of your students. You'll create your own composition using the Young Composers & Improvisors Workshop curriculum just as your students will. Along the way you will take part in conversation and feedback to help gain insights into how best to implement the curriculum and explore some of the challenges that often arise. Best of all, you will have an opportunity to share your ideas and expertise for improving the process! 
 
