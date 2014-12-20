@@ -11,7 +11,7 @@ This course is designed to help teachers explore the process of bringing music c
 ## When should I take this course?
 
 ###Take It Anytime!
-It it is recommended that you complete the course before beginning the YCIW curriculum with your students. 
+Feel free to take this course anytime.  
 
 ###Take it While You are Teaching Your Students!
 Much of the feedback and support from other teachers will be invaluable while you are working with your students. Think of this course as your own support system for implementing the YCIW curriculum. You'll also want to share your own thoughts and experiences about each lesson as you are teaching them. What worked? What was challenging? What did you discover? etc. 
