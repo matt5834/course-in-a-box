@@ -30,5 +30,5 @@ prose:
 # Set some personal styles and logo for your course
 # this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
 jumbotron_color: "#FFFFFF"
-jumbotron_background_image: "bannerBackground.jpg"
+jumbotron_background_image: "bannerBackground2.jpg"
 jumbotron_image: "logo3.png"
