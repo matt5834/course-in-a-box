@@ -17,7 +17,7 @@ Music teachers have always used strategies that foster creativity and make room 
 		
 ## OK, but who are you guys?
 
-We are a group of teachers, composers and musicians dedicated towards bring music composition to the typical music classroom. The Young Composers & Improvisors Workshop is a nonprofit organizaiont based in New York City. You can read all about us [here.](http://www.yciw.net/1/)
+We are a group of teachers, composers and musicians dedicated towards bringing music composition to the typical music classroom. The Young Composers & Improvisors Workshop is a nonprofit organizaiont based in New York City. You can read all about us [here.](http://www.yciw.net/1/)
 
 			
 ## I'm in--how do I get started?
