@@ -6,8 +6,8 @@ title: What do I need for this course?
 
 You'll need the following items for this course:
 
--Your own Noteflight account (free!)
--A YCIW account (also free!)
+1. Your own Noteflight account (free!)
+2. A YCIW account (also free!)
 
 ###Noteflight Account
 Noteflight is a revolutionary web application that allows users to compose in a web browser. It's like Finale or Sibelius but each score is a web page. What makes it even more awesome and great for teachers is that each score is shareable just like a Google Doc.  
