@@ -13,5 +13,6 @@ You'll be posting on various threads at our [YCIW Community](http://discourse.yc
 ![Image of cole]({{site.baseurl}}/img/discourseA.png)
 
 #Make an Introduction!
-It's time to introduce yourself to 
+It's time to introduce yourself and say hello. 
+Post a reply the introduction topic [here.](http://discourse.yciw.net/t/about-the-introduce-yourself-category/21?u=matt) Tell us a bit about yourself. 
 
