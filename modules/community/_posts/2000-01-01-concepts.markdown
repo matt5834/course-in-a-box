@@ -10,6 +10,8 @@ As you work through each part of this course you'll connect with other teachers.
 # Discourse Community
 You'll be posting on various threads at our [YCIW Community](http://discourse.yciw.net) Be sure to login with the same credentials that you use for yciw.net.
 
+![Image of cole]({{site.baseurl}}/img/discourseA.png)
+
 #Make an Introduction!
 It's time to introduce yourself to 
 
