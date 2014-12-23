@@ -14,7 +14,7 @@ If our goal is to create a melody that is singable and memorable then we can say
 How do we make a melody with a smooth melodic shape?
 Answer:  Create a melodic shape where most of the notes move by step.  
 
-Can we prove this?  Yes! I'm sure you can think of some melodies to have your students sing and then look at the notes to see how they move mostly by step. Twinkle Little Star or  Ode to Joy for example. Hey Jude is a great melody that uses a fair amount of skips and leaps but still has mostly stepwise motion. 
+Can we prove this?  Yes! I'm sure you can think of some melodies to have your students sing and then look at the notes to see how they move mostly by step. "Twinkle Little Star" or  "Ode to Joy" for example. "Hey Jude" is a great melody that uses a fair amount of skips and leaps but still has mostly stepwise motion. 
 
 #Melodic Direction
 We can reinforce the idea of pitch going higher or lower in relation to the musical alphabet by pointing out that if the melody is going higher in pitch students can say the musical alphabet forward. If the pitch is going lower they can say the musical alphabet backward. For example, if we want a student to think of one note being below another I might ask them to say the alphabet backward to find it. 
