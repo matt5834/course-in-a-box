@@ -24,9 +24,11 @@ We begin with letting students create a melodic shape by dragging notes up or do
 
 <a class="btn btn-primary" href="http://www.noteflight.com/scores/view/5dc7399b4e2d36ddb7e44f2700f2e6814dc5256f"><i class="fa fa-music"></i> Create a Melodic Shape in Noteflight</a>
 
+
 ##Welcome to Noteflight
 After you save your Noteflight score notice a few things (click the Save Cloud):
 ![noteflight1.png]({{site.baseurl}}/img/noteflight1.png)
+
 
 If you go to your Noteflight Home you'll now see a unique version of this score saved there called "Building a Singable, Memorable Melody, 1.  This happened because the score you opened is a *template score.* ![noteflight2.png]({{site.baseurl}}/img/noteflight2.png)
 All of the scores that your students open in the YCIW curriculum are template scores. After they open them a unique version that is all their own is automatically saved in their Noteflight Home. This is awesome because it allows students to edit their own work quickly and easily. 
