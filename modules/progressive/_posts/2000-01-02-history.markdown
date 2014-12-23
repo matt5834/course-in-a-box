@@ -35,6 +35,8 @@ After you save your Noteflight score notice a few things (click the Save Cloud):
 If you go to your Noteflight Home you'll now see a unique version of this score saved there called "Building a Singable, Memorable Melody, 1.  This happened because the score you opened is a *template score.* ![noteflight2.png]({{site.baseurl}}/img/noteflight2.png)
 All of the scores that your students open in the YCIW curriculum are template scores. After they open them a unique version that is all their own is automatically saved in their Noteflight Home. This is awesome because it allows students to edit their own work quickly and easily. 
 
+----
+
 
 
 
