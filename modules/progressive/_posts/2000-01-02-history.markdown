@@ -25,8 +25,9 @@ We begin with letting students create a melodic shape by dragging notes up or do
 <a class="btn btn-primary" href="http://www.noteflight.com/scores/view/5dc7399b4e2d36ddb7e44f2700f2e6814dc5256f"><i class="fa fa-music"></i> Create a Melodic Shape in Noteflight</a>
 
 ##Welcome to Noteflight
-After you save your Noteflight score notice a few things:
+After you save your Noteflight score notice a few things (click the Save Cloud):
 ![noteflight1.png]({{site.baseurl}}/img/noteflight1.png)
+
 
 
 
