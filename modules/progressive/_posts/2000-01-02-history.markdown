@@ -20,6 +20,12 @@ Can we prove this?  Yes! I'm sure you can think of some melodies to have your st
 We can reinforce the idea of pitch going higher or lower in relation to the musical alphabet by pointing out that if the melody is going higher in pitch students can say the musical alphabet forward. If the pitch is going lower they can say the musical alphabet backward. For example, if we want a student to think of one note being below another I might ask them to say the alphabet backward to find it. 
 
 ##Make a Smooth Melodic Shape
-We begin by letting students create a melodic shape by dragging notes up or down to create a melody 
+We begin with letting students create a melodic shape by dragging notes up or down to create a melody that has a smooth melodic shape. Clicking the button below will open a Noteflight exercise score. Login to Noteflight and then follow the directions on the score. 
 
 <a class="btn btn-primary" href="http://www.noteflight.com/scores/view/5dc7399b4e2d36ddb7e44f2700f2e6814dc5256f"><i class="fa fa-music"></i> Create a Melodic Shape in Noteflight</a>
+
+##Welcome to Noteflight
+After you save your Noteflight score notice a few things:
+https://www.dropbox.com/s/vjtk6jimtjrzc32/Screenshot%202014-12-23%2007.54.37.png?dl=0
+
+
