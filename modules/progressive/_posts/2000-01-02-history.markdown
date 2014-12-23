@@ -2,5 +2,9 @@
 title: Compose a Melody
 published: true
 ---
+#Steps, Skips and Leaps!
+It's all about the musical alphabet. 
+##Make a Smooth Melodic Shape
+We begin by letting students create a melodic shape by draggin notes up or down to create a melody 
 
-##
+<iframe width="640" height="298" src="http://www.noteflight.com/embed/5dc7399b4e2d36ddb7e44f2700f2e6814dc5256f?scale=1"></iframe>
