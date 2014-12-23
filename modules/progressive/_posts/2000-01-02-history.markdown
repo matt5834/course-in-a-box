@@ -26,6 +26,7 @@ We begin with letting students create a melodic shape by dragging notes up or do
 
 ##Welcome to Noteflight
 After you save your Noteflight score notice a few things:
+![noteflight1.png]({{site.baseurl}}/img/noteflight1.png)
 
 
 
