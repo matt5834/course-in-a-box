@@ -26,6 +26,8 @@ We begin with letting students create a melodic shape by dragging notes up or do
 
 ##Welcome to Noteflight
 After you save your Noteflight score notice a few things:
-https://www.dropbox.com/s/vjtk6jimtjrzc32/Screenshot%202014-12-23%2007.54.37.png?dl=0
+
+<iframe width="560" height="315" src="https://www.dropbox.com/s/vjtk6jimtjrzc32/Screenshot%202014-12-23%2007.54.37.png?dl=0" frameborder="0" allowfullscreen></iframe>
+
 
 
