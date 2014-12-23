@@ -36,7 +36,7 @@ If you go to your Noteflight Home you'll now see a unique version of this score 
 All of the scores that your students open in the YCIW curriculum are template scores. After they open them a unique version that is all their own is automatically saved in their Noteflight Home. This is awesome because it allows students to edit their own work quickly and easily. 
 
 ---
-Best of all, when you use the YCIW curriculum you'll be set up with a Teacher Noteflight account (you may note have that yet) and you'll be able to automatically see all of your student's scores. Every template score shows teachers a list of all students that have opened that score. You can simply click the students score to open it and leave comments or make edits. 
+Best of all, when you use the YCIW curriculum you'll be set up with a Teacher Noteflight account (you may not have that yet) and you'll be able to automatically see all of your student's scores. Every template score shows teachers a list of all students that have opened that score. You can simply click the students score to open it and leave comments or make edits. 
 ![noteflight3.png]({{site.baseurl}}/img/noteflight3.png)
 
 
