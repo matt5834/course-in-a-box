@@ -7,4 +7,4 @@ It's all about the musical alphabet.
 ##Make a Smooth Melodic Shape
 We begin by letting students create a melodic shape by draggin notes up or down to create a melody 
 
-<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/5dc7399b4e2d36ddb7e44f2700f2e6814dc5256f" target="_blank"><i class="fa fa-code-fork"></i>
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/5dc7399b4e2d36ddb7e44f2700f2e6814dc5256f"><i class="fa fa-music"></i> Melodic Shape</a>
