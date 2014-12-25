@@ -9,7 +9,7 @@ Next compose your own original melody that has a smooth melodic shape. Click the
 
 <a class="btn btn-primary" href="http://www.noteflight.com/scores/view/4fa8c834e0e3e40f3f695392f4e59adb5516212c"><i class="fa fa-music"></i> Create an Original Melody</a>
 
-Leave a comment on the topic about this lesson step here. What do you think might happen when your students attempt this step? 
+Leave a comment on the topic about this lesson step [here.](http://discourse.yciw.net/t/creating-a-singable-memorable-melody/24?u=matt) What do you think might happen when your students attempt this step? If you are doing this with your students currently let us know how it went!
 
 ##What about Rhythm?:
 
