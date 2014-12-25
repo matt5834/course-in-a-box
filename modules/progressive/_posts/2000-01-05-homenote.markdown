@@ -1,1 +1,12 @@
-text
+---
+title: A Sense of Key
+published: true
+---
+
+#Home Note
+Did you use any sharps or flats in the melody you created?  Did you end on the note C?
+
+Having a sense of key helps a melody be memorable and singable. One way to give a melody a strong sense of key is to end on the home note (in this case C).
+
+Complete this Noteflight assignment to practice ending a melody on the home note C. 
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/34403b7f2919eb582f6615e1a2fd76f81ee4d330" target="_blank"><i class="fa fa-music"></i>
