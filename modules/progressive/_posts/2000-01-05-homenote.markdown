@@ -17,10 +17,10 @@ Complete this Noteflight assignment to practice ending a melody on the home note
 Often a student will add sharps or flats to her melody. When this happens investigate if they are doing it because they hear some note other than C as the home note. If so, this would be a great moment to talk to them about key signature. If they are randomly adding sharps or flats though it may be useful to help them hear that the sharps or flats take their melody outside of the C "Do-Re-Mi" scale. 
 Practice working with accidentals:
 
-<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/2e25648f0d7c7bdcbffcc8a02a5a41e734b816db"><i class="fa fa-music"></i> Add Some Sharps</a>
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/2e25648f0d7c7bdcbffcc8a02a5a41e734b816db"target="_blank"><i class="fa fa-music"></i> Add Some Sharps</a>
 
 Create your own melody and practice ending on the home note:
-<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/f9c4381a880914e0f69d1d3a66a8387ad6391029"><i class="fa fa-music"></i> Create Another Melody</a>
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/f9c4381a880914e0f69d1d3a66a8387ad6391029"target="_blank"><i class="fa fa-music"></i> Create Another Melody</a>
 
 ##What do you think? What are you seeing?
 Post a response to the Home Note topic [here.](http://discourse.yciw.net/t/giving-a-melody-a-sense-of-key/55?u=matt)  Tell us what you think of this idea of creating a sense of key. How are your students doing with this concept?
