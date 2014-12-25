@@ -22,7 +22,7 @@ We can reinforce the idea of pitch going higher or lower in relation to the musi
 ##Make a Smooth Melodic Shape
 We begin with letting students create a melodic shape by dragging notes up or down to create a melody that has a smooth melodic shape. Clicking the button below will open a Noteflight exercise score. Login to Noteflight and then follow the directions on the score. 
 
-<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/5dc7399b4e2d36ddb7e44f2700f2e6814dc5256f"><i class="fa fa-music"></i> Create a Melodic Shape in Noteflight</a>
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/5dc7399b4e2d36ddb7e44f2700f2e6814dc5256f"target="_blank"><i class="fa fa-music"></i> Create a Melodic Shape in Noteflight</a>
 
 
 ##Welcome to Noteflight
