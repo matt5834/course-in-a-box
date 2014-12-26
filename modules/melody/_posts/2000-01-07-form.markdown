@@ -8,6 +8,22 @@ Are you tempted to add other instruments to your piece? Don't do it yet! We find
 
 However you may be getting bored of just hearing the piano
 so let's go ahead and change the instrument.
-Click on the first measure of your melody and go to the Staff Menu. Select Change Instrument
+Click on the first measure of your melody and go to the Staff Menu. Select **Change Instrument**
 
 ![changeInstrument.png]({{site.baseurl}}/img/changeInstrument.png)
+
+###Which Instruments
+You could choose any instrument you'd like. However, participants in YCIW will be given the list of instrumentation for your particular workshop. 
+
+###Working with Bass Clef
+For many young composers working with bass clef provides another level of complexity that can be overwhelming. If you choose a bass clef instrument like the cello or bassoon switch the clef to Treble-down 1 octave. This will allow you to work in treble clef but hear the notes lower. 
+
+
+**Select the entire staff by double clicking on it.**
+![selectStaff.png]({{site.baseurl}}/img/selectStaff.png)
+
+**Under the Measure menu click the treble clef with the small 8 beneath it**
+![selectOctave.png]({{site.baseurl}}/img/selectOctave.png)
+
+
+
