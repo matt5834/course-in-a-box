@@ -4,7 +4,7 @@ published: true
 ---
 
 #Form
-Are you tempted to add other instruments to your piece? Don't do it yet! We find that young composers do best when they develop a large chunk of the form for their piece by thinking liniearly with only one instrument at first. (We'll tackle harmony soon enough!)
+Are you tempted to add other instruments to your piece? Don't do it yet! We find that young composers do best when they develop a large chunk of the form for their piece by thinking linearly with only one instrument at first. (We'll tackle harmony soon enough!)
 
 However you may be getting bored of just hearing the piano
 so let's go ahead and change the instrument.
