@@ -13,7 +13,7 @@ Click on the first measure of your melody and go to the Staff Menu. Select **Cha
 ![changeInstrument.png]({{site.baseurl}}/img/changeInstrument.png)
 
 ###Which Instruments
-You could choose any instrument you'd like. However, participants in YCIW will be given the list of instrumentation for your particular workshop. 
+You could choose any instrument you'd like. However, participants in YCIW will be given the list of instrumentation for each particular workshop. 
 
 ###Working with Bass Clef
 For many young composers, working with bass clef provides another level of complexity that can be overwhelming. If you choose a bass clef instrument like the cello or bassoon switch the clef to Treble-down 1 octave. This will allow you to work in treble clef but hear the notes lower. 
