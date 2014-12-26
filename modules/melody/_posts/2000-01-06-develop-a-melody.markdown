@@ -28,7 +28,13 @@ There are three ways you could develop your melody:
 
 
 1. End on a different note the second time
-<iframe src="http://static.vexflow.com/embed/articles/912" width="100%" height="130" frameborder="0" scrolling="yes"></iframe>
+
 
 2. Begin the melody differently the second time
+
 3. Change the melodic shape slightly somewhere in your melody. 
+
+
+#Try a Sequence
+A sequence is a kind of repetition also. Choose part of your main melody or even the entire melody. Repeat that exact same melodic shape but from a higher or lower starting note. For example:
+<iframe src="http://static.vexflow.com/embed/articles/913" width="100%" height="180" frameborder="0" scrolling="yes"></iframe>
