@@ -19,6 +19,7 @@ Before you can develop a melody you need to create one!  Compose a main melody f
 <a class="btn btn-primary" href="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"><i class="fa fa-music"></i> Compose Your Main Melody!</a>
 
 #Develop Your Main Melody- 3 Kinds of Repetition
+
 Ok, now that you have a main melody that you really love I'm sure your listeners would like to hear it again. 
 There are three ways you could develop your melody:
 ---
