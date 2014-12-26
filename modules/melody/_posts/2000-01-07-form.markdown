@@ -20,9 +20,13 @@ For many young composers working with bass clef provides another level of comple
 
 
 **Select the entire staff by double clicking on it.**
+
+
 ![selectStaff.png]({{site.baseurl}}/img/selectStaff.png)
 
 **Under the Measure menu click the treble clef with the small 8 beneath it**
+
+
 ![selectOctave.png]({{site.baseurl}}/img/selectOctave.png)
 
 
