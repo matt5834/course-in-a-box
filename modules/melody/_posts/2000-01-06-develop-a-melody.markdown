@@ -38,3 +38,8 @@ Ok, now that you have a main melody that you really love I'm sure your listeners
 ##Try a Sequence
 A sequence is a kind of repetition also. Choose part of your main melody or even the entire melody. Repeat that exact same melodic shape but from a higher or lower starting note. For example:
 <iframe src="http://static.vexflow.com/embed/articles/913" width="100%" height="180" frameborder="0" scrolling="yes"></iframe>
+
+#Go to your main melody and develop it!
+Where is it?  Well, remember that any time you open a template score it is automatically saved for you in your Noteflight home. Find the score called Composition 1 in your Noteflight home. This will be the score used for your main composition. 
+
+
