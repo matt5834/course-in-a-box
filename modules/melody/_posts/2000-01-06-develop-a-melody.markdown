@@ -22,9 +22,9 @@ Before you can develop a melody you need to create one!  Compose a main melody f
 
 Ok, now that you have a main melody that you really love I'm sure your listeners would like to hear it again. There are three ways you could develop your melody:
 
----
-**Exact Repetition:**  Of course you could always just repeat it exactly as you have it. This is fine to do but it may be the least interesting option. 
----
+
+Exact Repetition:  Of course you could always just repeat it exactly as you have it. This is fine to do but it may be the least interesting option. 
+
 **Variation:** Try repeating your melody but making some kind of change to it. Another way to think of this is having something new in your piece that is related in some way to something we've already heard. You could:
 
 
