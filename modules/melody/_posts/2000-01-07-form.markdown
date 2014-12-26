@@ -16,7 +16,7 @@ Click on the first measure of your melody and go to the Staff Menu. Select **Cha
 You could choose any instrument you'd like. However, participants in YCIW will be given the list of instrumentation for your particular workshop. 
 
 ###Working with Bass Clef
-For many young composers working with bass clef provides another level of complexity that can be overwhelming. If you choose a bass clef instrument like the cello or bassoon switch the clef to Treble-down 1 octave. This will allow you to work in treble clef but hear the notes lower. 
+For many young composers, working with bass clef provides another level of complexity that can be overwhelming. If you choose a bass clef instrument like the cello or bassoon switch the clef to Treble-down 1 octave. This will allow you to work in treble clef but hear the notes lower. 
 
 
 **Select the entire staff by double clicking on it.**
@@ -44,7 +44,7 @@ For the listener to hear a new section in your piece you need to make a section 
 
 #A-B-A Form
 
-Your piece should now have two different sections: a first main melody that is repeated once and a second melody that is also repeated. You composition is probably now about 16 measures long. We can call the first section *A* and the second section *B.*  You can easily put your piece into A-B-A form simply by copying your A section and passting it after the B section. (Copying and pasting in Noteflight is super easy. Just highligth the measures and go to the Edit menu to copy and paste.)
+Your piece should now have two different sections: a first main melody that is repeated once and a second melody that is also repeated. You composition is probably now about 16 measures long. We can call the first section *A* and the second section *B.*  You can easily put your piece into A-B-A form simply by copying your A section and pasting it after the B section. (Copying and pasting in Noteflight is super easy. Just highlight the measures and go to the Edit menu to copy and paste.)
 
 ###Add Some Color
 You can help show your form by coloring the notes of the A section blue and the B section green. 
@@ -53,6 +53,10 @@ Your piece might look something like this:
 
 
 ![abaForm.png]({{site.baseurl}}/img/abaForm.png)
+
+
+#Feedback...questions?
+Post a reply to the topic on Form [here.](http://discourse.yciw.net/t/giving-your-piece-a-b-a-form/56?u=matt) Do you have any thoughts about this lesson step? Share any experiences about how your students went about putting their piece into A-B-A form. 
 
 
 
