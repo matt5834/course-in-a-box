@@ -42,4 +42,7 @@ A sequence is a kind of repetition also. Choose part of your main melody or even
 #Go to your main melody and develop it!
 Where is it?  Well, remember that any time you open a template score it is automatically saved for you in your Noteflight home. Find the score called Composition 1 in your Noteflight home. This will be the score used for your main composition. 
 
+#Feedback 
+Go to the topic on Developing a Melody [here](http://discourse.yciw.net/t/techniques-for-developing-a-melody/33?u=matt) and post a reply. Let us know if you have any thoughts about this step. If you're doing this with your students did they find anything that was difficult? Helpful?
+
 
