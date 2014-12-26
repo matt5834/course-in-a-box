@@ -25,7 +25,10 @@ There are three ways you could develop your melody:
 **Exact Repetition:** Of course you could always just repeat it exactly as you have it. This is fine to do but it may be the least interesting option. 
 ---
 **Variation:** Try repeating your melody but making some kind of change to it. Another way to think of this is having something new in your piece that is related in some way to something we've already heard. You could:
+
+
 1. End on a different note the second time
-<iframe width="640" height="298" src="http://yciw.sites.noteflight.com/embed/4959c91aa36f0b0a284e8babfc6fd9a384e02ff2?scale=1"></iframe>
+<iframe src="http://static.vexflow.com/embed/articles/912" width="100%" height="180" frameborder="0" scrolling="no"></iframe>
+
 2. Begin the melody differently the second time
 3. Change the melodic shape slightly somewhere in your melody. 
