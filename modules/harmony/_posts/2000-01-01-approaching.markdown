@@ -38,13 +38,21 @@ Here is a simple activity that can help students experience Harmony Rule 1.
 
 Use iPad apps like PlayPad, Garageband, Thumbjam or any other app that allows for melody performance. 
 Or, use classroom instruments like the piano or Orff pitched percussion. 
+
+
 **Student Directions:** (students should work in pairs)
+
+
 *Part 1*
+
+
 1. Working with a partner create and perform a short melody of 4 or 5 notes. 
 2. Help your partner play another melody along with the first melody that uses ONLY consonant notes (skips).
 
 
 *Part 2*
+
+
 1. Create and perform another short melody. 
 2. Working with your partner create a second melody that uses one dissonant note. Resolve the dissonance to a consonance on the very next note. 
 
