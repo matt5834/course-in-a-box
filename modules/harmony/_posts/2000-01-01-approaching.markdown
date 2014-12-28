@@ -57,7 +57,7 @@ Or, use classroom instruments like the piano or Orff pitched percussion.
 2. Working with your partner create a second melody that uses one dissonant note. Resolve the dissonance to a consonance on the very next note. 
 
 
-<iframe width="560" height="315" src="http://threering-artifacts.s3.amazonaws.com/03c24320-7499-453d-9ccb-85811b66c4cf.mp4" frameborder="0"  param name="autostart" value="0"></iframe>
+<iframe width="560" height="315" src="http://threering-artifacts.s3.amazonaws.com/03c24320-7499-453d-9ccb-85811b66c4cf.mp4" frameborder="0"   autoplay="false"></iframe>
 
 
 
