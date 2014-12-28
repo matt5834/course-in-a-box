@@ -32,6 +32,24 @@ This rule makes the subjective choice about steps and skips in the musical alpha
 ##Controlling Dissonance
 We want to stress that dissonances (or clashes) are not necessarily bad. In order to give our music a sense of movement we need to hear dissonant notes *resolving* from dissonance to consonance. Controlling these resolutions is the goal for our young composers!
 
+#Preliminary Activities for Students
+Here is a simple activity that can help students experience Harmony Rule 1. 
+
+
+Use iPad apps like PlayPad, Garageband, Thumbjam or any other app that allows for melody performance. 
+Or, use classroom instruments like the piano or Orff pitched percussion. 
+**Student Directions:** (students should work in pairs)
+*Part 1*
+1. Working with a partner create and perform a short melody of 4 or 5 notes. 
+2. Help your partner play another melody along with the first melody that uses ONLY consonant notes (skips).
+
+
+*Part 2*
+1. Create and perform another short melody. 
+2. Working with your partner create a second melody that uses one dissonant note. Resolve the dissonance to a consonance on the very next note. 
+
+
+Now let's do this in Noteflight!
 ##Add a 2nd Instrument to Your Piece
 1. Go to your composition and a second instrument to your piece. (Click on the first staff, go to the Staff Menu and select "Add Part Below Staff."
 2. Add notes only to your A section. 
