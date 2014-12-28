@@ -22,11 +22,28 @@ To get students started in controlling dissonances in their piece we will use a 
 
 Harmony Rule 1 says:
 
-###Letters a STEP apart in the musical aplphabet =  Dissonances
+###Letters a STEP apart in the musical aplphabet =  A Dissonance
 
-###Letters a SKIP apart in the musical alphabet = Consonances
+###Letters a SKIP apart in the musical alphabet = A Consonance
 
 
-This rule makes the subjective choice about steps and skips in the musical alphabet.  One important thing to note is that we need not discern between 1/2 steps and whole steps.  E to F is a step just as C to D is a step. We also need not discern between major and minor thirds. C to E is a skip and E to G is also a skip. **During a second or third composition students can explore "two kinds of steps" to explore 1/2 steps and whole steps.**
+This rule makes the subjective choice about steps and skips in the musical alphabet.  One important thing to note is that we need not discern between 1/2 steps and whole steps.  E to F is a step just as C to D is a step. We also need not discern between major and minor thirds. C to E is a skip and E to G is also a skip. **During a second or third composition students can learn about "two kinds of steps" to explore 1/2 steps and whole steps.**
+
+##Controlling Dissonance
+We want to stress that dissonances (or clashes) are not necessarily bad. In order to give our music a sense of movement we need to hear dissonant notes *resolving* from dissonance to consonance. Controlling these resolutions is the goal for our young composers!
+
+##Add a 2nd Instrument to Your Piece
+1. Go to your composition and a second instrument to your piece. (Click on the first staff, go to the Staff Menu and select "Add Part Below Staff."
+2. Add notes only to your A section. 
+3. Use mostly skips or consonances in you new part.  If you have a dissonance resolve it to a consonance on the very next note. **Do not have two dissonances in a row.**
+4. In your new instrument color all of the consonant notes BLUE. Color any dissonant notes RED. 
+
+
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"target="_blank"><i class="fa fa-music"></i> Go to your piece and add a 2nd Instrument</a>
+
+##Feedback
+Post a reply to the topic about Consonance and Dissonance [here.](http://discourse.yciw.net/t/consonance-and-dissonance/58?u=matt) Let us know your general thoughts about this harmonic concept. Share any experiences about your students. Any breakthroughs?
+
+
 
 
