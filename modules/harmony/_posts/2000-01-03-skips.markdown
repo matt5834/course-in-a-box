@@ -13,13 +13,16 @@ For example:
 F below C (2 Skips) could be spelled as C below F (Skip plus a Step).  For simplicity let's refer to this Leap interval only as **2-Skips.**
 
 
->While 2-Skips do not sound so much like a clash they are not as consonant as a Skip. We will treat 2-Skips as
-
->dissonances that need to be treated as such. So apply the same rules to 2-Skips as you would to Steps:
+While 2-Skips do not sound so much like a clash they are not as consonant as a Skip. We will treat 2-Skips as
+dissonances that need to be treated as such. So apply the same rules to 2-Skips as you would to Steps:
 
 
 *Resolve a 2-Skip interval to a Skip interval on the very next note.
+
+
 *Do not have two 2-Skip intervals in a row.
+
+
 *Do not leap to a 2-Skip interval.
 
 
