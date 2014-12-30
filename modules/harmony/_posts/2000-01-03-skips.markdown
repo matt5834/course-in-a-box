@@ -14,7 +14,7 @@ C below G (2 Skips) could be spelled as G below C (Skip plus a Step).  For simpl
 
 
 
-<iframe src="http://static.vexflow.com/embed/articles/2581" width="100%" height="255" frameborder="0" scrolling="yes"></iframe>
+<iframe src="http://static.vexflow.com/embed/articles/2581" width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
 
 
 
