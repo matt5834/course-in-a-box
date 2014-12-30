@@ -32,3 +32,4 @@ dissonances. Apply the same rules to 2-Skips as you would to Steps:
 + Do not leap to a 2-Skip interval.
 
 
+
