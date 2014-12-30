@@ -76,7 +76,7 @@ Now let's do this in Noteflight!
 <a class="btn btn-primary" href="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"target="_blank"><i class="fa fa-music"></i> Go to your piece and add a 2nd Instrument</a>
 
 ##Feedback
-Post a reply to the topic about Consonance and Dissonance [here.](http://discourse.yciw.net/t/consonance-and-dissonance/58?u=matt) Let us know your general thoughts about this harmonic concept. Share any experiences about your students. Any breakthroughs?
+Post a reply to the topic about Consonance and Dissonance [here.](http://discourse.yciw.net/t/consonance-and-dissonance/58?u=matt) Let us know your general thoughts about this harmonic concept. Read about tips from other teachers. Share any experiences about your students. Any breakthroughs?
 
 
 
