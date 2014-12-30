@@ -10,7 +10,10 @@ As you may have noticed there is another option for adding a harmony note. Inste
 For example:
 
 
-F below C (2 Skips) could be spelled as C below F (Skip plus a Step).  For simplicity let's refer to this Leap interval only as **2-Skips.**
+C below G (2 Skips) could be spelled as G below C (Skip plus a Step).  For simplicity let's refer to this Leap interval only as **2-Skips.**
+
+
+<iframe src="http://static.vexflow.com/embed/articles/2581" width="100%" height="317" frameborder="0" scrolling="no"></iframe>
 
 
 While 2-Skips do not sound so much like a clash they are not as consonant as a Skip. We will treat 2-Skips as
