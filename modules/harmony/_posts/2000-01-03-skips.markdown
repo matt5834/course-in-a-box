@@ -14,7 +14,7 @@ F below C (2 Skips) could be spelled as C below F (Skip plus a Step).  For simpl
 
 
 While 2-Skips do not sound so much like a clash they are not as consonant as a Skip. We will treat 2-Skips as
-dissonances that need to be treated as such. So apply the same rules to 2-Skips as you would to Steps:
+dissonances. Apply the same rules to 2-Skips as you would to Steps:
 
 
 + Resolve a 2-Skip interval to a Skip interval on the very next note.
