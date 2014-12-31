@@ -1,9 +1,9 @@
 ---
-title: 2-Skips
+title: Texture
 published: true
 ---
 
-##Is Your Main Melody Still the Start? 
+##Is Your Main Melody Still the Star? 
 
 Listen to your composition and pay special attention to how the new part you added is working with your main melody.
 **Leave a comment on your Noteflight Score that answers the following question:**
@@ -45,6 +45,10 @@ Switching between different textures will increase the complexity of your music.
 
 
 <a class="btn btn-primary" href="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"target="_blank"><i class="fa fa-music"></i> Add a 2nd Part to My B Section</a>
+
+
+##Feedback
+Visit the topic about texture [here](http://discourse.yciw.net/t/texture-importance-of-homophonic-texture/60?u=matt) and post a reply sharing your thoughts and ideas. Have you had any experiences with students regarding texture? Have you tried any of the class activities regarding texture?
 
 
 
