@@ -6,7 +6,10 @@ published: true
 ##Is Your Main Melody Still the Star? 
 
 Listen to your composition and pay special attention to how the new part you added is working with your main melody.
-**Leave a comment on your Noteflight Score that answers the following question:**
+**Leave a comment on your Noteflight Score that answers the following questions:**
+
+
+
 * Does your main melody still sound like the star of your piece or is the new part covering it up somehow?
 * If the new part is working well with your main melody write about why you think that is so.
   - Are you using all consonant intervals?
