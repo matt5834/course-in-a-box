@@ -38,7 +38,7 @@ ___
 ##Music Lingo
 So what about this notion of texture? It can be helpful to know which texture you are trying to create as this will help you organize all of your instruments. The musical texture we used above, one that has a clear background part that supports a main melody, is called a **homophonic texture.**  (There are two kinds of homophonic texture but we will focus on this one.)  The three main textures that we will be concerned with are:
 
-* Hompophonic Texture:  a clear background part that supports a main melody
+* Homophonic Texture:  a clear background part that supports a main melody
 * Monophonic Texture: a single melody played by one instrument or many
 * Polyphonic Texture: more than one independent melody sounding at the same time
 
