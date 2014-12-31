@@ -73,6 +73,14 @@ Now let's do this in Noteflight!
 4. In your new instrument color all of the consonant notes BLUE. Color any dissonant notes RED. 
 
 
+___
+##What About Different Octaves
+The simplest way of analyzing steps, skips and leaps is to think of the intervals as they relate to the musical alphabet regardless of different octaves. For example, we'll treat the interval of a 9th the same as a 2nd or step. While these intervals sound very different it is helpful for the young composer to relate the intervals to the musical alphabet only. 
+
+
+<iframe src="http://static.vexflow.com/embed/articles/2583" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+
+
 <a class="btn btn-primary" href="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"target="_blank"><i class="fa fa-music"></i> Go to your piece and add a 2nd Instrument</a>
 
 ##Feedback
