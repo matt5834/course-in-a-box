@@ -17,6 +17,6 @@ At the very least every instrument must have some kind of openning dynamic marki
 
 ###Overall Volume
 The composer can certainly specify different dynamics for each instrument at any given point in time but here is a general tip:
->Decide on the overall volume that you'd like a particular section of your piece to be and give every instrument the same dyanimic marking. The ensemble will adjust the parts to make the main melodies come out over the background parts. 
+>Decide on the overall volume that you'd like a particular section of your piece to be and give every instrument the same dynamic marking. The ensemble will adjust the parts to make the main melodies come out over the background parts. 
 
 
