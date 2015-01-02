@@ -24,7 +24,7 @@ How can we do this...?
 ###End on the Home Chord
 For your piece to sound complete it can be helpful to end on the home chord (tonic chord). Determine if your piece is in C major or some other key and have your final harmony use the notes of the C Major chord (c-e-g). 
 
-<iframe width="640" height="298" src="http://www.noteflight.com/embed/bf2c62c7fb2a0e22c1e244519f8dd1c8968b1f98?scale=1"></iframe>
+<iframe width="640" height="298" src="http://www.noteflight.com/embed/bf2c62c7fb2a0e22c1e244519f8dd1c8968b1f98?scale=1"frameborder="0"></iframe>
 
 
 ###Repeat Melody 3 Times
