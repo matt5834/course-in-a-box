@@ -15,7 +15,7 @@ Regardless of your form we will include an Ending Section and an Introduction to
 
 We will explore a few common techniques for making an ending to your piece. One important tip is this:
 
-* However you choose to end your piece you want to make it very obvious to the listener that your piece is ending!
+>However you choose to end your piece you want to make it very obvious to the listener that your piece is ending!
 
 
 How can we do this...?
