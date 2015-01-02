@@ -24,4 +24,7 @@ Great! Now what....
 You now have two instruments playing the same exact background part.  We say these parts are in **unison.**  You can quickly make harmony from unison parts! Try this:
 
 1.  
+<iframe width="560" height="315" src="https://www.dropbox.com/s/nukfckkx63qhy29/sideMenu.gif?dl=0" frameborder="0"></iframe>
+
+
 
