@@ -8,7 +8,7 @@ published: true
 Dyanamics is the musical term for volume. The word "dynamic" can be used in other contexts to mean "constant changing."  This implies that when we set the volume for the instruments to play we also want to control how the volume changes between soft and loud. This will help create excitement in our piece. 
 
 
-##Openning Dynamics
+##Opening Dynamics
 After the least every instrument must have some kind of openning dynamic marking so that the musicians know at what volume they should begin. Here is how to add dynamics in Noteflight:
 
 
