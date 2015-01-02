@@ -29,4 +29,15 @@ You now have two instruments playing the same exact background part.  We say the
 <iframe width="100%" height="315" src="https://dl.dropboxusercontent.com/u/12899352/Gifs/3instruments.gif" frameborder="0"></iframe>
 
 
+1. Add a third instrument to your piece. 
+2. Copy and paste the entire background instrument part into the new third instrument.
+3. Move the **entire** third instrument up or down 1 skip in order to go from a unison part to a harmony part. 
+
+
+You'll likely need to double check your harmony parts with the main melody and make a few adjustments. For example, look for any open intervals or any clashes. 
+
+##Feedback
+Visit this topic about filling out the orchestration [here](http://discourse.yciw.net/t/using-copy-and-paste-to-fill-out-the-instrumentation/61?u=matt) on our forum and share your thoughts and experiences with this technique.  How have your students performed using this technique in their piece. 
+
+
 
