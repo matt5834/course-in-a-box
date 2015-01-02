@@ -44,3 +44,7 @@ A ritardando is a common way to gradually slow the tempo down at the end of your
 Go to your composition and try to employ all of these techniques in creating your ending. 
 
 <a class="btn btn-primary" href="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"target="_blank"><i class="fa fa-music"></i> Make an Ending</a>
+
+
+###Feedback
+Leave a reply to the Making an Ending topic [here](http://discourse.yciw.net/t/making-an-ending-some-common-techniques/62?u=matt) to share any ideas about this concept. 
