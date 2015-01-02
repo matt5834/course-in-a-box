@@ -20,3 +20,21 @@ The composer can certainly specify different dynamics for each instrument at any
 >Decide on the overall volume that you'd like a particular section of your piece to be and give every instrument the same dynamic marking. The ensemble will adjust the parts to make the main melodies come out over the background parts. 
 
 
+###What Are My Choices?
+Here is a listing of the most common dynamic markings in order from softest to loudest:
+
+pp = very soft *(pianissimo)*
+
+p = soft *(piano)*
+
+mp = medium soft *(mezzo piano)*
+
+mf = medium loud *(mezzo forte)*
+
+f = loud *(forte)*
+
+ff = very loud *(fortissimo)*
+
+
+
+
