@@ -48,5 +48,12 @@ Here is how to add these symbols in Noteflight:
 <iframe width="100%" height="230" src="https://dl.dropboxusercontent.com/u/12899352/Gifs/crescendoDemo.gif" frameborder="0"></iframe>
 
 
+###Add Dynamics to Your Piece
+Go to your composition and add thoughtful dynamics to your piece.  Be sure to consider how you want the volume to change and use crescendos and decresendos. 
+
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"target="_blank"><i class="fa fa-music"></i> Add Dynamics to Your Piece</a>
+
+
+
 
 
