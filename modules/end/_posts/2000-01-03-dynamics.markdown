@@ -39,9 +39,12 @@ ff = very loud *(fortissimo)*
 ###Crescendos and Decrescendos
 To gradually have instruments get louder you can use the Crescendo symbol.
 
+![crescendo.png]({{site.baseurl}}/img/crescendo.png)
+
 
 To gradually have the instruments get softer you can use the Decrescendo symbol. 
 
+![decrescendo.png]({{site.baseurl}}/img/decrescendo.png)
 
 Here is how to add these symbols in Noteflight:
 
