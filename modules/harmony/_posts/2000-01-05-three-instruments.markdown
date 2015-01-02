@@ -22,8 +22,7 @@ Great! Now what....
 
 ##Create Harmony From Unison Parts 
 You now have two instruments playing the same exact background part.  We say these parts are in **unison.**  You can quickly make harmony from unison parts! Try this:
-
-1.  
+ 
 
 
 
