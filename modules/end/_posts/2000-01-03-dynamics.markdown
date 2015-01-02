@@ -9,9 +9,14 @@ Dyanamics is the musical term for volume. The word "dynamic" can be used in othe
 
 
 ###Opening Dynamics
-After the least every instrument must have some kind of openning dynamic marking so that the musicians know at what volume they should begin. Here is how to add dynamics in Noteflight:
+At the very least every instrument must have some kind of openning dynamic marking so that the musicians know at what volume they should begin. Here is how to add dynamics in Noteflight:
 
 
 <iframe width="100%" height="230" src="https://dl.dropboxusercontent.com/u/12899352/Gifs/dynamicsDemo.gif" frameborder="0"></iframe>
+
+
+###Overall Volume
+The composer can certainly specify different dynamics for each instrument at any given point in time but here is a general tip:
+>Decide on the overall volume that you'd like a particular section of your piece to be and give every instrument the same dyanimic marking. The ensemble will adjust the parts to make the main melodies come out over the background parts. 
 
 
