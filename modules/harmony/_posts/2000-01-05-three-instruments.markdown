@@ -26,7 +26,7 @@ You now have two instruments playing the same exact background part.  We say the
 
 
 
-<iframe width="100%" height="315" src="https://dl.dropboxusercontent.com/u/12899352/Gifs/sideMenu.gif" frameborder="0"></iframe>
+<iframe width="100%" height="315" src="https://dl.dropboxusercontent.com/u/12899352/Gifs/3instruments.gif" frameborder="0"></iframe>
 
 
 
