@@ -35,4 +35,6 @@ A very common technique for creating an ending is to repeat the last phrase of y
 
 ###Use the Rit... Symbol
 A ritardando is a common way to gradually slow the tempo down at the end of your piece. This symbol can be found under the Lines menu in Noteflight. One thing to be aware of is that Noteflight currently will not slow down the tempo during playback when it sees a Ritardando. Use your imagination for this one and know that the real musicians will slow down. 
+
+
 ![ritExample.png]({{site.baseurl}}/img/ritExample.png)
