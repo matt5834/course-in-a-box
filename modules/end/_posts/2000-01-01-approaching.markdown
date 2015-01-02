@@ -29,3 +29,5 @@ For your piece to sound complete it can be helpful to end on the home chord (ton
 
 ###Repeat Melody 3 Times
 A very common technique for creating an ending is to repeat the last phrase of your main melody 3 times while witholding the final note until the final statement of the melody. 
+
+<iframe width="640" height="298" src="http://www.noteflight.com/embed/c55635006e486d14da7ea9bae5190bc58b99d039?scale=1"frameborder="0"></iframe>
