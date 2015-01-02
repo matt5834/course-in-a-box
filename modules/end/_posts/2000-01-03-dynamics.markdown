@@ -45,7 +45,7 @@ To gradually have the instruments get softer you can use the Decrescendo symbol.
 
 Here is how to add these symbols in Noteflight:
 
-<iframe width="100%" height="230" src="https://dl.dropboxusercontent.com/u/12899352/Gifs/crescendoDemo.gif.gif" frameborder="0"></iframe>
+<iframe width="100%" height="230" src="https://dl.dropboxusercontent.com/u/12899352/Gifs/crescendoDemo.gif" frameborder="0"></iframe>
 
 
 
