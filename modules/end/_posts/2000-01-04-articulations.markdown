@@ -10,7 +10,7 @@ Imagining how you'd like the musicians to play your work is part of the fun of c
 ###Staccato 
 A dot placed directly above or below the note tells the musician to play that note short and seperate. (This is a differente symbol from teh **rhythm dot.**)
 
-
+![staccatoGif](https://dl.dropboxusercontent.com/u/12899352/Gifs/staccatoDemo.gif)
 
 
 ###Slurs
