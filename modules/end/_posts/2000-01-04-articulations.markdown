@@ -28,4 +28,4 @@ A really neat rhythmic effect to try is making certain notes slightly louder, or
 Combining articulations can have a dramatic effect. Listen to this example and notice how each articulation changes the way the notes sound. 
 
 
-<iframe width="640" height="298" src="http://yciw.sites.noteflight.com/embed/8d8c9132087e38ea794b89624ffcd5f164ec6601?scale=1"></iframe>
+<iframe width="640" height="298" src="http://yciw.sites.noteflight.com/embed/8d8c9132087e38ea794b89624ffcd5f164ec6601?scale=1" frameborder="0"></iframe>
