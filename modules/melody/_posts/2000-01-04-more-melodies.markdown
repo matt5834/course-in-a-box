@@ -18,6 +18,9 @@ We have not made any mention of rhythm so far! The idea that a melody needs to b
 ###Classroom Activity
 >Working in pairs using classroom instruments, iPads or band instruments students should compose and perform a short melody of 4 to 6 notes. The melody should use mostly steps. Student A and Student B can either play the same melody or create their own melody that they teach to each other. Melodies should be shared with the class. Before each class performances ask the entire class to listen for a smooth melodic shape. 
 
+<iframe width="560" height="315" src="https://threering-artifacts.s3.amazonaws.com/9ABBAA35-5448-4979-AD61-CCB083C1672A.mp4" frameborder="0" allowfullscreen></iframe>
+
+
 
 ###Feedback
 Leave a comment on the topic about this lesson step [here.](http://discourse.yciw.net/t/creating-a-singable-memorable-melody/24?u=matt) What do you think might happen when your students attempt this step? If you are doing this with your students let us know how it went!
