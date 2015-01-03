@@ -31,3 +31,11 @@ Combining articulations can have a dramatic effect. Listen to this example and n
 
 
 <iframe width="640" height="298" src="http://yciw.sites.noteflight.com/embed/8d8c9132087e38ea794b89624ffcd5f164ec6601?scale=1" frameborder="0"></iframe>
+
+___
+###Add Articulations to Your Piece!
+Go to your composition and add thoughtful articulations throughout your piece. There are many other articulations markings that you are free to explore and use. 
+
+<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"target="_blank"><i class="fa fa-music"></i> Add Articulations to Your Piece</a>
+
+
