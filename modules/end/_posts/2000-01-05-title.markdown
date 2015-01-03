@@ -13,3 +13,5 @@ Choose a title that capture the mood or spirit of your piece. Is there some kind
 
 
 ###Directions for Adding a Title
+
+![titleGif](https://dl.dropboxusercontent.com/u/12899352/Gifs/titleDemo.gif)
