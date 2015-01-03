@@ -16,6 +16,7 @@ Leave a comment on the topic about this lesson step [here.](http://discourse.yci
 We have not made any mention of rhythm so far! The idea that a melody needs to be singable can help students make choices that are also playable by instruments. (Important later on!) As an experienced musician you likely composed your melody while simultaneously conceiving of the rhythm you wanted. Most young students will gain rhythmic fluency by experimenting with different rhythms in Notelfight and hearing them back. 
 
 
-###Classroom Activities
->Working in pairs
+###Classroom Activity
+>Working in pairs using classroom instruments, iPads or band instruments students should compose and perform a short melody of 4 to 6 notes. The melody should use mostly steps. Student A and Student B can either play the same melody or create their own melody that they teach to each other. Melodies should be shared with the class. Before each class performances ask the entire class to listen for a smooth melodic shape. 
+
 
