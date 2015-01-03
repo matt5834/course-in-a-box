@@ -8,19 +8,19 @@ Imagining how you'd like the musicians to play your work is part of the fun of c
 
 
 ###Staccato 
-A dot placed directly above or below the note tells the musician to play that note short and seperate. (This is a differente symbol from the **rhythm dot.**)
+A dot placed directly above or below the note tells the musician to play that note short and seperate. (This is a different symbol from the **rhythm dot.**)
 
 ![staccatoGif](https://dl.dropboxusercontent.com/u/12899352/Gifs/staccatoDemo.gif)
 
 
 ###Slurs
-Slurs are lines placed above or below the notes that tell the musician to play those notes smooth and connected. (This is a differente symbol from the **tie.**) 
+Slurs are lines placed above or below the notes that tell the musician to play those notes smooth and connected. (This is a different symbol from the **tie.**) 
 
 ![slursGif](https://dl.dropboxusercontent.com/u/12899352/Gifs/slursDemo.gif)
 
 
 ###Accents
-A really neat rhythmic effect to try is making certain notes slightly louder, or accented than other notes. This symbol is called an accent. Accents can be used any where. Think of how or why you accent certain words or syllables when you speak. You may want to accent certain notes in your melodies for the same reason!
+A really neat rhythmic effect to try is making certain notes slightly louder than other notes. This symbol is called an accent. Accents can be used any where. Think of how or why you accent certain words or syllables when you speak. You may want to accent certain notes in your melodies for the same reason!
 
 ![accentsGif](https://dl.dropboxusercontent.com/u/12899352/Gifs/accentDemo.gif)
 
