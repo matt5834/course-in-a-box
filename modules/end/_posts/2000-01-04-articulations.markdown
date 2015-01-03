@@ -22,6 +22,8 @@ Slurs are lines placed above or below the notes that tell the musician to play t
 ###Accents
 A really neat rhythmic effect to try is making certain notes slightly louder, or accented than other notes. This symbol is called an accent. Accents can be used any where. Think of how or why you accent certain words or syllables when you speak. You may want to accent certain notes in your melodies for the same reason!
 
+![accentsGif](https://dl.dropboxusercontent.com/u/12899352/Gifs/accentDemo.gif)
+
 
 
 ###Combine Articulations
