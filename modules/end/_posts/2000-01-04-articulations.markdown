@@ -38,4 +38,12 @@ Go to your composition and add thoughtful articulations throughout your piece. T
 
 <a class="btn btn-primary" href="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"target="_blank"><i class="fa fa-music"></i> Add Articulations to Your Piece</a>
 
+___
+##Classroom Activities
+>Working in small groups, pairs or individual can select a classroom instrument, ipad or band instrument. Distribute a short melody of 4 to 6 notes. Ask students to perform the short melody using each of the articulations in this lesson. Students may share their performance with the class and discuss the choices they've made. Facility a discussion as to how each articulation effects the melody. 
+
+
+###Feedback
+Leave a comment on the aticulations topic [here](http://discourse.yciw.net/t/articulations-important-techniques/63?u=matt) describing any insights or breakthroughs exploring articulations. 
+
 
