@@ -67,7 +67,7 @@ Or, use classroom instruments like the piano or Orff pitched percussion.
 
 Now let's do this in Noteflight!
 ##Add a 2nd Instrument to Your Piece
-1. Go to your composition and a second instrument to your piece. (Click on the first staff, go to the Staff Menu and select "Add Part Below Staff."
+1. Go to your composition and add a second instrument to your piece. (Click on the first staff, go to the Staff Menu and select "Add Part Below Staff."
 2. Add notes only to your A section. 
 3. Use mostly skips or consonances in you new part.  If you have a dissonance resolve it to a consonance on the very next note. **Do not have two dissonances in a row.**
 4. In your new instrument color all of the consonant notes BLUE. Color any dissonant notes RED. 
