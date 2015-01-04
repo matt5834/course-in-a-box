@@ -50,6 +50,14 @@ Switching between different textures will increase the complexity of your music.
 <a class="btn btn-primary" href="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"target="_blank"><i class="fa fa-music"></i> Add a 2nd Part to My B Section</a>
 
 
+###Classroom Activity
+>Working in pairs or small groups on classroom instruments, iPads or band instruments students will perform all three textures: **monophony, homophony and polyphony.**  Give students time to compose short examples of each and then perform them for the class. During the class performance ask students what texture they are hearing. 
+
+
+Here is a group's example of homophony:
+<iframe src="//player.vimeo.com/video/115907107" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+___
 ##Feedback
 Visit the topic about texture [here](http://discourse.yciw.net/t/texture-importance-of-homophonic-texture/60?u=matt) and post a reply sharing your thoughts and ideas. Have you had any experiences with students regarding texture? Have you tried any of the class activities regarding texture?
 
