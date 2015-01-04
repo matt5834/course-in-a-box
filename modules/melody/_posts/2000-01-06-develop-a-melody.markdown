@@ -35,7 +35,9 @@ Ok, now that you have a main melody that you really love I'm sure your listeners
 3. Change the melodic shape slightly somewhere in your melody. 
 
 
-##Try a Sequence
+**Sequence**
+
+
 A sequence is a kind of repetition also. Choose part of your main melody or even the entire melody. Repeat that exact same melodic shape but from a higher or lower starting note. For example:
 <iframe src="http://static.vexflow.com/embed/articles/913" width="100%" height="180" frameborder="0" scrolling="yes"></iframe>
 
