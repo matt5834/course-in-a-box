@@ -45,6 +45,9 @@ Where is it?  Well, remember that any time you open a template score it is autom
 
 ###Classroom Activity
 <iframe width="100%" height="315" src="https://threering-artifacts.s3.amazonaws.com/498270CD-CA7D-48C7-98C4-5493B822BAF7.mp4" frameborder="0" allowfullscreen></iframe>
+>Working individually or in pairs using classroom instruments, iPads or band instruments students will compose a short 4 to 6 note melody. They should then repeat their melody using one of the kinds of repetition from this lesson: **exact repetition, variation or sequence.**  As the class listens to each performance ask them to identify the method of repetition they are hearing.  
+
+>A great warm up/beginning of class activity as students enter the classroom is to project the PlayPad app on the overhead projector or through a loud speaker. Perform the various kinds of repetition and ask students to identify what they are hearing. 
 
 
 ###Feedback 
