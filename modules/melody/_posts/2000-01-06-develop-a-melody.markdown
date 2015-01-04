@@ -43,6 +43,7 @@ A sequence is a kind of repetition also. Choose part of your main melody or even
 Where is it?  Well, remember that any time you open a template score it is automatically saved for you in your Noteflight home. Find the score called Composition 1 in your Noteflight home. This will be the score used for your main composition. 
 
 
+___
 ###Classroom Activity
 <iframe src="//player.vimeo.com/video/115905946" width="100%" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 >Working individually or in pairs using classroom instruments, iPads or band instruments students will compose a short 4 to 6 note melody. They should then repeat their melody using one of the kinds of repetition from this lesson: **exact repetition, variation or sequence.**  As the class listens to each performance ask them to identify the method of repetition they are hearing. 
