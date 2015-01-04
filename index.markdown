@@ -17,7 +17,7 @@ Music teachers have always used strategies that foster creativity and make room 
 
 
 ###This learning community will help your students go from this...
-<iframe width="100%" height="315" src="http://threering-artifacts.s3.amazonaws.com/f38f7e63-c502-40e7-8148-c03c94fe8c02.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/115904359" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ###...to this...
 <iframe src="//player.vimeo.com/video/115414056?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
