@@ -16,8 +16,8 @@ Reply to this topic [here](http://discourse.yciw.net/t/beginning-a-piece-with-me
 <div class="vex-tabdiv"
       width=680 scale=1.0 editor="false"
       editor_width=680 editor_height=330>options space=20
+    
       
-  vextab 
     options player=true scale=1.5 width=350 instrument=flute
     tabstave notation=true tablature=false 
     voice
