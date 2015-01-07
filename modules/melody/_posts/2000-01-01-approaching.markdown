@@ -14,10 +14,10 @@ There are obviously many ways a composer could begin a piece of music. It's impo
 Reply to this topic [here](http://discourse.yciw.net/t/beginning-a-piece-with-melody-other-ways/53?u=matt) with your thoughts on beginning a composition this way. Do you have other ideas or thoughts about how young composers could begin their piece?
 
 <div class="vex-tabdiv"
-      width=680 scale=1.0 editor="true"
+      width=680 scale=1.0 editor="false"
       editor_width=680 editor_height=330>options space=20
       
-
+  vextab 
     options player=true scale=1.5 width=350 instrument=flute
     tabstave notation=true tablature=false 
     voice
