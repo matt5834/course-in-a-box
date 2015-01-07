@@ -16,16 +16,5 @@ Reply to this topic [here](http://discourse.yciw.net/t/beginning-a-piece-with-me
 <div class="vex-tabdiv"
       width=680 scale=1.0 editor="true"
       editor_width=680 editor_height=330>options space=20
-  tabstave
-    notation=true
-    key=A time=4/4
-
-  
-    voice
-        notes :h D/4-D/5
-    voice
-        notes :h C/4-C/4
-
-
-  options space=25
+ 
 </div>
