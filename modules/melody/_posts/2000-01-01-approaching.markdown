@@ -18,7 +18,7 @@ Reply to this topic [here](http://discourse.yciw.net/t/beginning-a-piece-with-me
       editor_width=680 editor_height=330>options space=20
     
       
-    options player=true scale=1.5 width=350 instrument=flute
+    options player=true scale=1.5 width=150 instrument=flute
     tabstave notation=true tablature=false 
     voice
         notes :h D/4-D/5
