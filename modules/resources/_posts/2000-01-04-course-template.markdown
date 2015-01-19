@@ -13,9 +13,9 @@ The ordering of sections of music within one composition. For example, an A sect
 Any two or more sounds ocurring at the same moment in time. 
 
 ###Harmony Rule 1
--Letters of the musical alphabet 1 STEP apart when sounded together are considered a *dissonance.*
--Letters of the musical alphabet 1 SKIP apart when sounded together are considered a *consonance.*
--Letters of the musical alphabet 2 SKIPS apart are considered to be *open* and need to be resolved. 
+* Letters of the musical alphabet 1 STEP apart when sounded together are considered a *dissonance.*
+* Letters of the musical alphabet 1 SKIP apart when sounded together are considered a *consonance.*
+* Letters of the musical alphabet 2 SKIPS apart are considered to be *open* and need to be resolved. 
 
 
 
@@ -35,7 +35,7 @@ The movement from a dissonant harmony to a consonant harmony.
 
 
 ###Singable, Memorable Melody
-There are many kinds of melodies and many ways that a melody can be memorable. One way to create a melody that is memorable is apply a smooth melodic shape to a rhythm that can be sung. Melodies that use mostly STEPS, with occassional SKIPS and LEAPS have a smooth melodic shape. 
+There are many kinds of melodies and many ways that a melody can be memorable. One way to create a melody that is memorable is to apply a smooth melodic shape to a rhythm that can be sung. Melodies that use mostly STEPS, with occassional SKIPS and LEAPS have a smooth melodic shape. 
 
 
 ###Skips
