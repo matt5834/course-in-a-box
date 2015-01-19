@@ -1,6 +1,6 @@
 title: Music Works
 description: Music Composition as Experience
-modules: [start, community, melody, harmony, details, references]
+modules: [start, community, melody, harmony, details, resources]
 signups:
  - name: Dirk Uys
    image: http://thebacklog.net/img/profile.jpeg
