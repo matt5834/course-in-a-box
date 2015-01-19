@@ -1,4 +1,22 @@
+---
+title: Next Steps
+---
 
 
+##After You Take This Course!
 
-###After You Take This Course!
+Once you have taken this course you will be ready to take part in YCIW and bring composition to all of your students in any kind of classroom.  You may also choose to take this course while you simultaneously participate in YCIW with your students. Many teachers find this a helpful way to engage in the curriculum and receive helpful tips from our community. 
+
+Participants in YCIW receive the following:
+* An individual course LMS with web lessons, and premade Noteflight assignments that take students from beginning to end of their composition. Track your student's progress as they recieve points and badges. 
+* Online composer mentoring for each of your students. Composer mentors leave helpful comments on each student's score. 
+* A live performance of each student's composition in a young composers concert held at your school by our artists-in-residence [Metropolis Ensemble.](http://metropolisensemble.org) 
+
+###For all details about how to enroll in Young Composers & Improvisors Workshop visit: [yciw.net](http://www.yciw.net/1/)
+
+>YCIW is a free resource for any New York City Public school!
+
+
+##Student Compositions Performed by 30 Piece Orchestra!
+If you teach outside of New York City you can have your student's pieces performed and recorded by a 30 piece orchestra!  We have partnered with the [West European Symphony Orchestra](http://www.wesorchestra.com) and their innovative [Orchestra99 Project.](http://www.wesorchestra.com)  For $99 dollars students can watch a live simulcast and recieve a recording of their composition. For complete details visit [Orchestra99 Project.](http://www.wesorchestra.com)  
+
