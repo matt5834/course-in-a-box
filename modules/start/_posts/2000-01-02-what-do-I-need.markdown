@@ -1,5 +1,5 @@
 ---
-title: What do I need for this course?
+title: What do I need?
 ---
 
 ##What do I need for this course?
