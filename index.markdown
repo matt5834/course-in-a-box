@@ -15,8 +15,8 @@ In the typical visual art class every student begins some kind of creative proje
 ## Composition vs. Performance (or Both!)
 Music teachers have always used strategies that foster creativity and make room for student voice. Through improvisation with pitched percussion, the voice or band instruments students can explore how music works through *performing.* There is now a deeper and more creative way for students to express themselves through music.  With technology like [Noteflight](http://www.noteflight.com) students can explore every aspect of the musical language, as well as performance practice techniques, by composing their own pieces for others to perform. Best of all students can also develop their own performance skills by writing a part for themselves to play. **Throughout this course we will examine methods that help students compose notated music compositions. Strategies for mastering key concepts will include ways for students to perform them as well as explore them in Noteflight.**  Completed pieces will be scored for six instruments.  
 
-
-*Music Composition as Experience* is part teaching method, part learning community. 
+##What is this Course?
+*Music Composition as Experience* is part teaching method, part learning community. Young Composers & Improvisors Workshop is continually developing innovative and progressive course curriculum for students in a classroom setting to use. *Music Composition as Experience* is a compendium course and community space that will orientate teachers with the *Music Works 1* student course.
 
 
 ###This learning community will help your students go from this...
