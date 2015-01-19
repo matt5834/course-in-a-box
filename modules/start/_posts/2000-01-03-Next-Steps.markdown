@@ -8,9 +8,15 @@ title: Next Steps
 Once you have taken this course you will be ready to take part in YCIW and bring composition to all of your students in any kind of classroom.  You may also choose to take this course while you simultaneously participate in YCIW and teach the curriculum to your students.  Many teachers find this a helpful way to engage in the curriculum and receive helpful tips from our community. 
 
 Participants in YCIW receive the following:
-1. An individual course LMS with web lessons, and premade Noteflight assignments that take students from beginning to end of their composition. Track your student's progress as they recieve points and badges. 
-2. Online composer mentoring for each of your students. Composer mentors leave helpful comments on each student's score. 
+
+1. An individual course LMS with web lessons, and premade Noteflight assignments that take students from beginning to end of their composition. Track your student's progress as they recieve points and badges.
+
+2. Online composer mentoring for each of your students. Composer mentors leave helpful comments on each student's score.
+
 3. A live performance of each student's composition in a young composers concert held at your school by our artists-in-residence [Metropolis Ensemble.](http://metropolisensemble.org) 
+
+
+
 
 ###For all details about how to enroll in Young Composers & Improvisors Workshop visit: [yciw.net](http://www.yciw.net/1/)
 
