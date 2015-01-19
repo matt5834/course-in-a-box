@@ -8,4 +8,16 @@ There is a free and paid version. [Playpad](https://itunes.apple.com/us/app/play
 
 
 ###inHarmony
-Excellent app for performing a chord and a diatonic melody simultaneously. An intuitive way for students to 
+Excellent app for performing a chord progression and a diatonic melody simultaneously. An intuitive way for students to play chord tones based on scale degrees. [inHarmony](https://itunes.apple.com/us/app/inharmony/id526295009?mt=8)
+
+
+###Chordion
+Similar to inHarmony with its ability to perform chords and melodies simultaneously. Chordion offers slightly less control in terms of melodic note choices. Also a great MIDI controller when used with OSC. [Chordion](https://itunes.apple.com/us/app/chordion-musical-instrument/id552182095?mt=8)
+
+###The Orchestra
+A great teacher tool for demonstrating many aspects of orchestration. Teacher can play a number of selections displaying score and audio simlutaneously. Tap and hold the screen to momentarily discuss characteristics of the notation etc. [The Orchestra](https://itunes.apple.com/us/app/the-orchestra/id560078788?mt=8)
+
+
+###NotateMe
+An app for transforming hand writen notation into exportable formatted notation. [NotateMe](https://itunes.apple.com/us/app/notateme/id699470139?mt=8)
+
