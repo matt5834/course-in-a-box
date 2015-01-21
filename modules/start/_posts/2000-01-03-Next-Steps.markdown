@@ -24,5 +24,5 @@ Participating teachers in YCIW receive the following:
 
 
 ##Student Compositions Performed by 30 Piece Orchestra!
-If you teach outside of New York City you can have your student's pieces performed and recorded by a 30 piece orchestra!  We have partnered with the [West European Symphony Orchestra](http://www.wesorchestra.com) and their innovative [Orchestra99 Project.](http://www.wesorchestra.com)  For $99 dollars students can watch a live simulcast and receive a recording of their composition. For complete details visit [Orchestra99 Project.](http://www.wesorchestra.com)  
+If you teach outside of New York City you can have your student's pieces performed and recorded by a 30 piece orchestra!  We have partnered with the [West European Symphony Orchestra](http://www.wesorchestra.com) and their innovative [Orchestra99 Project.]( http://orchestra99.squarespace.com/#meltdown-tour)  For $99 dollars students can watch a live simulcast and receive a recording of their composition. For complete details visit [Orchestra99 Project.]( http://orchestra99.squarespace.com/#meltdown-tour)  
 
