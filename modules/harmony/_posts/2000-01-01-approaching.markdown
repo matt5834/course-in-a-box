@@ -88,6 +88,8 @@ The simplest way of analyzing steps, skips and leaps is to think of the interval
 
 ##Feedback
 Post a reply to the topic about Consonance and Dissonance here: <a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/consonance-and-dissonance/58?u=matt"><i class="fa fa-weixin"></i>Talk About Our Approach to Harmony</a>
+
+
 Let us know your general thoughts about this harmonic concept. Read about tips from other teachers. Share any experiences about your students. Any breakthroughs?
 
 
