@@ -87,7 +87,8 @@ The simplest way of analyzing steps, skips and leaps is to think of the interval
 <iframe src="http://static.vexflow.com/embed/articles/2583" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 ##Feedback
-Post a reply to the topic about Consonance and Dissonance [here.](http://discourse.yciw.net/t/consonance-and-dissonance/58?u=matt) Let us know your general thoughts about this harmonic concept. Read about tips from other teachers. Share any experiences about your students. Any breakthroughs?
+Post a reply to the topic about Consonance and Dissonance here: <a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/consonance-and-dissonance/58?u=matt"><i class="fa fa-weixin"></i>Talk About Our Approach to Harmony</a>
+Let us know your general thoughts about this harmonic concept. Read about tips from other teachers. Share any experiences about your students. Any breakthroughs?
 
 
 
