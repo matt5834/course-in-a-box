@@ -37,7 +37,8 @@ You now have two instruments playing the same exact background part.  We say the
 You'll likely need to double check your harmony parts with the main melody and make a few adjustments. For example, look for any open intervals or any clashes. 
 
 ##Feedback
-Visit this topic about filling out the orchestration [here](http://discourse.yciw.net/t/using-copy-and-paste-to-fill-out-the-instrumentation/61?u=matt) on our forum and share your thoughts and experiences with this technique.  How have your students performed using this technique in their piece. 
+Visit this topic about filling out the orchestration here:  <a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/using-copy-and-paste-to-fill-out-the-instrumentation/61?u=matt"><i class="fa fa-weixin"></i> Talk about Orchestration!</a>   
+Share your thoughts and experiences with this technique.  How have your students performed using this technique in their piece. 
 
 
 
