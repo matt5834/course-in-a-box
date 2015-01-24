@@ -23,7 +23,7 @@ An app for transforming hand writen notation into exportable formatted notation.
 
 
 ###Music Works- iBook
-A free iBook called *Music Works* is ideal for exploring the Music Works 1 and Music Works 2 curriculum on an iPad. Teachers may find this a valuable resource for demonstrations and examples in a classroom setting. 
+A free iBook called *Music Works* is ideal for exploring the Music Works 1 and Music Works 2 curriculum on an iPad. Teachers may find this a valuable resource for demonstrations and examples in a classroom setting. You can find *Music Works* on the iBooks store [here.](https://itunes.apple.com/us/book/music-works/id591561177?mt=13)
 
 
 
