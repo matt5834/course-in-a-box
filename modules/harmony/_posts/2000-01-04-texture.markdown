@@ -59,7 +59,9 @@ Here is a group's example of homophony:
 
 ___
 ##Feedback
-Visit the topic about texture [here](http://discourse.yciw.net/t/texture-importance-of-homophonic-texture/60?u=matt) and post a reply sharing your thoughts and ideas. Have you had any experiences with students regarding texture? Have you tried any of the class activities regarding texture?
+Visit the topic about texture here:  <a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/texture-importance-of-homophonic-texture/60?u=matt"><i class="fa fa-weixin"></i> Talk about Texture!</a> 
+
+Post a reply sharing your thoughts and ideas. Have you had any experiences with students regarding texture? Have you tried any of the class activities regarding texture?
 
 
 
