@@ -11,6 +11,6 @@ There are obviously many ways a composer could begin a piece of music. It's impo
 
 ##What Do You Think?
 
-Reply to this topic [here](http://discourse.yciw.net/t/beginning-a-piece-with-melody-other-ways/53?u=matt) with your thoughts on beginning a composition this way. Do you have other ideas or thoughts about how young composers could begin their piece?
+Reply to this topic <a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/beginning-a-piece-with-melody-other-ways/53?u=matt"><i class="fa fa-weixin"></i> What do you think?</a> with your thoughts on beginning a composition this way. Do you have other ideas or thoughts about how young composers could begin their piece?  
 
 
