@@ -16,7 +16,7 @@ Ethan Hein has a very indepth blog post about the many ways that repetition defi
 #Create Your Main Melody!
 Before you can develop a melody you need to create one!  Compose a main melody for you composition. Think of it as the main character in your story. Throughout your story this character will appear in different ways and in different contexts. 
 
-<a class="btn btn-primary" href="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"><i target="_blank" class="fa fa-music"></i> Compose Your Main Melody!</a>
+<a class="btn btn-primary" href ="http://www.noteflight.com/scores/view/38296c5fb414130f631642ddb20da616ea73b0bb"><i  class="fa fa-music" target="_blank"></i> Compose Your Main Melody!</a>
 
 ##Develop Your Main Melody- 3 Kinds of Repetition
 
