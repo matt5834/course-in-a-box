@@ -55,6 +55,8 @@ ___
 
 
 ###Feedback 
-Go to the topic on Developing a Melody [here](http://discourse.yciw.net/t/techniques-for-developing-a-melody/33?u=matt) and post a reply. Let us know if you have any thoughts about this step. If you're doing this with your students did they find anything that was difficult? Helpful?
+Go to the topic on Developing a Melody and post a reply. <a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/techniques-for-developing-a-melody/33?u=matt"><i class="fa fa-weixin"></i> Develop a Melody Topic</a>
+Let us know if you have any thoughts about this step. If you're doing this with your students did they find anything that was difficult? Helpful?
+
 
 
