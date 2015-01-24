@@ -29,7 +29,7 @@ ___
 ##What do you think? What are you seeing?
 Post a response to the Home Note topic here: <a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/giving-a-melody-a-sense-of-key/55?u=matt"><i class="fa fa-weixin"></i> Home Note Feedback</a>   Tell us what you think of this idea of creating a sense of key. How are your students doing with this concept?
 
-<iframe src="http://discourse.yciw.net/t/introduce-yourself-and-say-hello/21?u=matt"> width="100%" height="600px"</iframe>
+<iframe src="http://discourse.yciw.net/t/introduce-yourself-and-say-hello/21?u=matt" width="800" height="600" frameborder="0" ></iframe>
 
 
 
