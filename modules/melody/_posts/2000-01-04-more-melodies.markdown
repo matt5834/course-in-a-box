@@ -23,7 +23,9 @@ We have not made any mention of rhythm so far! The idea that a melody needs to b
 
 
 ###Feedback
-Leave a comment on the topic about this lesson step [here.](http://discourse.yciw.net/t/creating-a-singable-memorable-melody/24?u=matt) What do you think might happen when your students attempt this step? If you are doing this with your students let us know how it went!
+Leave a comment on the topic about this lesson step here: <a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/creating-a-singable-memorable-melody/24?u=matt"><i class="fa fa-weixin"></i> Feedback</a> What do you think might happen when your students attempt this step? If you are doing this with your students let us know how it went!
+
+
 
 
 
