@@ -18,6 +18,8 @@ Slurs are lines placed above or below the notes that tell the musician to play t
 
 ![slursGif](https://dl.dropboxusercontent.com/u/12899352/Gifs/slursDemo.gif)
 
+**Note: Pay careful attention to the difference between ties and slurs. Students very often mistakenly use ties when they mean to put in slurs. The slur marking is under the Lines menu and the tie marking is under the Basics menu.** 
+
 
 ###Accents
 A really neat rhythmic effect to try is making certain notes slightly louder than other notes. This symbol is called an accent. Accents can be used any where. Think of how or why you accent certain words or syllables when you speak. You may want to accent certain notes in your melodies for the same reason!
