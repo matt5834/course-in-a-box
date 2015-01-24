@@ -16,5 +16,6 @@ Feel free to take this course anytime. It's a great preparation for teachers int
 ###Take it While You are Teaching Your Students!
 Much of the feedback and support from other teachers will be invaluable while you are working with your students. Think of this course as your own support system for implementing the YCIW curriculum. You'll also want to share your own thoughts and experiences about each lesson as you are teaching them. What worked? What was challenging? What did you discover? etc. Many teachers take this course while they simultaneously take part in Young Composers & Improvisors Workshop. 
 
+**If you would like information on receiving the YCIW curriculum and lms for your students [submit a request here.](http://www.yciw.net/1/consultation-form/)**
 
 
