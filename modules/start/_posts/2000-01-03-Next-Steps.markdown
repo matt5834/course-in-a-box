@@ -18,7 +18,7 @@ Participating teachers in YCIW receive the following:
 
 
 
-###For all details about how to enroll in Young Composers & Improvisors Workshop visit: [yciw.net](http://www.yciw.net/1/)
+###For all details about how to enroll in Young Composers & Improvisors Workshop visit: [yciw.net](http://www.yciw.net/1/) or [submit a request here.](http://www.yciw.net/1/consultation-form/)
 
 >YCIW is a free resource for any New York City Public school!
 
