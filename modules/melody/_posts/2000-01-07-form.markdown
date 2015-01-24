@@ -56,7 +56,10 @@ Your piece might look something like this:
 
 
 #Feedback...questions?
-Post a reply to the topic on Form [here.](http://discourse.yciw.net/t/giving-your-piece-a-b-a-form/56?u=matt) Do you have any thoughts about this lesson step? Share any experiences about how your students went about putting their piece into A-B-A form. 
+Post a reply to the topic on Form here:  <a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/giving-your-piece-a-b-a-form/56?u=matt"><i class="fa fa-weixin"></i> Ask us stuff!</a>
+
+Do you have any thoughts about this lesson step? Share any experiences about how your students put their piece into A-B-A form. 
+
 
 
 
