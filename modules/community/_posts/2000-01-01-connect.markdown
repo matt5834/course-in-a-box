@@ -15,6 +15,6 @@ You'll be posting on various threads at our [YCIW Community.](http://discourse.y
 #Make an Introduction!
 It's time to introduce yourself and say hello. 
 Post a reply to the introduction topic and tell us a bit about yourself.
-<a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/about-the-introduce-yourself-category/21?u=matt"><i class="fa fa-weixin"></i> Say Hello Here!</a>
+<a class="btn btn-primary" target="_blank" href="http://discourse.yciw.net/t/this-is-just-some-place-meant-text/68?u=matt"><i class="fa fa-weixin"></i> Say Hello Here!</a>
 
 
